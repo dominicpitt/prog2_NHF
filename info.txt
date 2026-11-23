@@ -1,0 +1,44 @@
+	 _____          __                                       _
+	 \_   \ _ __   / _|  ___   _ __  _ __ ___    __ _   ___ (_)  ___  
+	   / /\/| '_ \ | |_  / _ \ | '__|| '_ ` _ \  / _` | / __|| | / _ \ 
+	/\/ /_  | | | ||  _|| (_) || |   | | | | | || (_| || (__ | || (_) |
+	\____/  |_| |_||_|   \___/ |_|   |_| |_| |_| \__,_| \___||_| \___/  
+__________________________________________________
+Keszitette:Pitt Dominic
+A lehetosegek kozul szamokkal kell valasztani.
+
+Lehetosegek:
+	0. Informacio
+	1. Uj alapanyag felvetele
+	2. Uj recept felvetele
+	3. Recept alapanyagai
+	4. Alapanyag Keres
+	5. Receptek kilistazasa
+	6. Alapanyagok kilistazasa
+	7. Receptek torlese
+	8. Alapanyag torlese
+	9. Kilepes!
+
+	Informacio: Ezen az odalon vagy most.
+
+	Uj alapanyag felvetele: Adjuk meg a recept nevet, ha egy letezo recepthez szeretnenk hozzaadni,
+	ha pedig csak hozzavalokat akarunk tarolni(hozzadadni) akkor irja a 'nincs' szot a recept nevehez,
+	addig var alapanyagra mig nem irja, hogy 'done'.
+	Uj recept felvetele: Meg kell adni egy recept nevet, meg legalább egy hozzavalot,
+	ha nincs tobb hozza valo akkor irjuk, hogy 'done'.
+
+	Recept alapanyagai: Egy receptre lehet rakeresni es kiirja a hozzavaloit.
+
+	Alapanyag Keres: Itt egy alapanyagot/hozzavalot kereshetunk es kiirja az osszes receptet hozzavaloival, amik 	tartalmazzak a kert alapanyagot. 
+
+	Receptek kilistazasa: Kilistazza az osszes receptep es hozzavaloit.
+
+	Alapanyagok kilistazasa: Kilistazza az osszes alapanyagot.
+
+	Receptek torlese: Itt megadhatunk egy recept, amit kitorlunk.
+
+	Alapanyag torlese: Itt egy alapanyagot lehet torolni az adatbazisbol.
+
+	Kilepes!:Ezzel a parancsal kilepsz a italreceptekbol es lefut a fajlba mentes.
+
+	Folytatashoz nyomj entert...
